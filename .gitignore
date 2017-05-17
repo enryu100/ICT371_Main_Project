@@ -1,0 +1,17 @@
+Standard Assets/
+Library/
+ProjectSettings/
+Temp/
+*.csproj
+.vs
+Standard Assets.meta
+/Sports-Kinematics.sln
+Data/
+trunk/
+*.svn
+/Solution.zip
+Plugins/System/UnityEngine.UI.dll
+Plugins/System/UnityEngine.UI.dll.meta
+Functionality Creation/ReportGeneration/ReportGeneration/bin/Debug/test.txt
+Assets/Sports-Kinematics/Scenes/Replay.unity
+*.userprefs
